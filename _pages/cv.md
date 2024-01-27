@@ -25,17 +25,16 @@ Database Management Systems, Operating Systems, Data Structures, Data Warehousin
 
 Work experience
 ======
-* Web Developer             	  Spacewell, A Nemetschek Company
-Jan 2019 - Jul 2022                                  	         Hyderabad, India 
-•	Web Developer at Spacewell, a Nemetschek group company headquartered in Munich, Germany.
-•	Responsible for developing new modules and interfaces for MCS WEB PORTAL, a product with modules such as Reservations, Work Orders, Helpdesk, etc.
-•	Extended Reservations module to include workplaces, involving UI modifications, API enhancements, and procedure/function updates.
-•	Contributed to the Document module, focusing on backend and database operations for managing folders and files.
-•	Developed Dashboards module for creating, deleting, and displaying visually appealing dashboards using Iframes, including UI, API, and SQL queries.
-•	Implemented authentication  mechanism to allow users to be logged in 3 devices (including web, mobile app) with 24 hours as TTL .
-•	Documented and Unit tested all the 106 API’s spread across 10 modules through SOAP UI and Postman’s.
-•	Script to display the stock charts using D3.js.
-•	Customized the product for global customers, enhancing front-end, back-end, and database to boost customer satisfaction.
+* Web Developer  at Spacewell, A Nemetschek Company, Hyderabad, India 
+  Jan 2019 - Jul 2022                                  	         
+    * Responsible for developing new modules and interfaces for MCS WEB PORTAL, a product with modules such as Reservations, Work Orders, Helpdesk, etc.
+    * Extended Reservations module to include workplaces, involving UI modifications, API enhancements, and procedure/function updates.
+    * Contributed to the Document module, focusing on backend and database operations for managing folders and files.
+    * Developed Dashboards module for creating, deleting, and displaying visually appealing dashboards using Iframes, including UI, API, and SQL queries.
+    * Implemented authentication  mechanism to allow users to be logged in 3 devices (including web, mobile app) with 24 hours as TTL .
+    * Documented and Unit tested all the 106 API’s spread across 10 modules through SOAP UI and Postman’s.
+    * Script to display the stock charts using D3.js.
+    * Customized the product for global customers, enhancing front-end, back-end, and database to boost customer satisfaction.
 Technology  Stack – HTML, CSS, JavaScript, ExtJS (Extended JavaScript), PHP, SQL, Oracle, Procedures, Functions, Packages, SOAP, Unit Testing (PHPUnit)
 
 Skills
