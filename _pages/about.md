@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an accomplished professional with a strong foundation in Information Science and a diverse skill set in software development. Proficient in HTML, CSS, PHP, SQL, and experienced in various database technologies, I bring a wealth of knowledge to the field. My expertise spans across domains, showcasing proficiency in Data Analytics, Data Visualization, Machine Learning, Artificial Intelligence, and Computer Vision. My ability to work independently or collaboratively within a team reflects my dedication to contributing effectively to complex projects and challenges.
+I am an accomplished professional with a strong foundation in Information Science. My expertise spans across domains, showcasing proficiency in Data Analytics, Data Visualization, Machine Learning, Artificial Intelligence, and Computer Vision. My ability to work independently or collaboratively within a team reflects my dedication to contributing effectively to complex projects and challenges. Aspiring to be a data scientist, my main interest lies in Artificial Intelligence, Machine Learning, and Deep Learning; mainly in the context of computer vision. I’m interested in researching AI/ML/DL solutions and building scalable end-to-end machine learning and deep learning systems for computer vision applications.
 
 Journey: 
 ======
@@ -22,7 +22,7 @@ Journey:
 9. Started my masters in August'2022
 10. Now working on various independent research projects, primarily in computer vision.
 
-Bio
-------
+Personal Bio
+=======
 Born in Meerut, I spent my early childhood wandering in the Bharatpur Wildlife Sanctuary and surrounding temples and forts. Moved to Hyderabad along with my family at the age of 6. I am a nature lover and a trained Bharatnatyam dancer. I spent 15 years learning and then teaching this under-appreciated art form to the children willing to learn. My diverse yet simple life helped me shape into what I am. If my journey intrigues you, let's connect.
 
