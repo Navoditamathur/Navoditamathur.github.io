@@ -39,7 +39,7 @@ Work experience
 Technology  Stack – HTML, CSS, JavaScript, ExtJS (Extended JavaScript), PHP, SQL, Oracle, Procedures, Functions, Packages, SOAP, Unit Testing (PHPUnit)
 
 Skills
-======
+------
 * Languages - Python, R, SQL, C, Java, MATLAB
 * Database - Oracle, MySQL, Neo4j
 * ML/DL - PyTorch, Tensorflow, Keras, scikit-learn, Caret, glmnet
