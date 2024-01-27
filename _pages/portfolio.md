@@ -6,10 +6,8 @@ author_profile: true
 redirect_from:
   - /portfolio
 ---
----
-title: "Crack Image Segmentation: (Aug 2023 – Present)"
-Description: "The project is to develop a unet architecture-based deep learning model trained on 11,000 road images and assess the performance using F1-score, Cohen’s kappa."
----
+* Crack Image Segmentation: (Aug 2023 – Present)
+The project is to develop a unet architecture-based deep learning model trained on 11,000 road images and assess the performance using F1-score, Cohen’s kappa.
 
 * Pitt Digital Scholarship: (Jan 2023 – April 2023)
 The project was to develop a web application to search for people, units, areas, methods, tools, and resources required for scholarships with special privileges given depending on the permission level, to add and delete the same.  My role was to query and construct the  graph database using Neo4j, API construction for CURD operations on the SQL database, and deployment of the website using Google Cloud.
