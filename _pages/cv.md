@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ------
-* Master of Science: Information Science  - Expected in May 2024 	GPA- 4.0
-  University of Pittsburgh -Pittsburgh, PA
+* Master of Science: Information Science
+    * Expected in May 2024
+    * GPA- 4.0
+    * University of Pittsburgh -Pittsburgh, PA
+    * Relevant courses: Algorithm Design, Information Storage and Retrieval, Application of Networks, Database Management System, Machine Learning, Artificial Intelligence, Information Security and Privacy, Introduction to Computer Vision, Data Mining, Human Information Processing, Introduction to Deep Learning, Cloud Computing.
 
-  Relevant courses: Algorithm Design, Information Storage and Retrieval, Application of Networks, Database Management System, Machine Learning, Artificial Intelligence, Information Security and Privacy, Introduction to Computer Vision, Data Mining, Human Information Processing, Introduction to Deep Learning, Cloud Computing.
-
-* Bachelor of Technology: Information Technology - May 2019	GPA- 3.2
-  Mahatma Gandhi Institute of Technology - Hyderabad, India
-
-  Relevant courses: Database Management Systems, Operating Systems, Data Structures, Data Warehousing and Data Mining, Cloud Computing, Mobile Application Development, Machine Learning, Information Security, Information Storage and Retrieval.
+* Bachelor of Technology: Information Technology
+    * Graduated in May 2019
+    * GPA- 3.2
+    * Mahatma Gandhi Institute of Technology - Hyderabad, India
+    * Relevant courses: Database Management Systems, Operating Systems, Data Structures, Data Warehousing and Data Mining, Cloud Computing, Mobile Application Development, Machine Learning, Information Security, Information Storage and Retrieval.
 
 Work experience
 ------
