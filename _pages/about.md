@@ -29,5 +29,11 @@ Journey:
 
 Personal Bio
 =======
-Born in Meerut, I spent my early childhood wandering in the Bharatpur Wildlife Sanctuary and surrounding temples and forts. Moved to Hyderabad along with my family at the age of 6. I am a nature lover and a trained Bharatnatyam dancer. I spent 15 years learning and then teaching this under-appreciated art form to the children willing to learn. My diverse yet simple life helped me shape into what I am. If my journey intrigues you, let's connect.
+Other than academics, I am also a trained Bharatnatyam dancer. Through this, I found a unique way to express my appreciation for the world around me. For 15 years, I immersed myself in the art, not only as a student but also as a teacher, sharing the beauty of this under-appreciated dance form with eager young minds.
+
+As an ecocentrist, my worldview centers around the profound belief that nature possesses intrinsic value, transcending its utility to human interests. For me, ecocentrism is more than a philosophy; it's a way of life. It's about recognizing the inherent value of ecosystems, biodiversity, and the intricate web of life that sustains our planet. The holistic perspective of ecocentrism resonates with me, emphasizing the interconnectedness of all living organisms and the delicate balance that maintains the health of our Earth.
+
+The intersection of technology and ecology opens avenues for groundbreaking research and conservation practices. Whether it's employing machine learning algorithms to analyze large datasets from camera traps or utilizing geographic information system (GIS) tools for habitat mapping, I believe in the potential of these advancements along with a genuine passion to preserve every kind of species irrespective of its usefulness to revolutionize our approach to environmental preservation.
+
+If my journey resonates with you or sparks your curiosity, I welcome the opportunity to connect. Together, let's explore and make this journey even more remarkable.
 
