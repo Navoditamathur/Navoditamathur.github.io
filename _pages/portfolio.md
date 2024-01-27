@@ -1,4 +1,12 @@
 ---
+layout: archive
+title: "Projects"
+permalink: /portfolio/
+author_profile: true
+redirect_from:
+  - /portfolio
+---
+---
 title: "test"
 excerpt: "kjkb>"
 collection: portfolio
