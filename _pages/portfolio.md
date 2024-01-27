@@ -1,3 +1,8 @@
+---
+title: "Crack Image Segmentation: (Aug 2023 – Dec 2023)
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
 
 * Crack Image Segmentation: (Aug 2023 – Dec 2023)
     * Developed a U-Net architecture-based deep learning model with cross-level connections and transformers for road cracks image segmentation.
