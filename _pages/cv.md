@@ -25,8 +25,9 @@ Education
 
 Work experience
 ------
-* Web Developer  at Spacewell, A Nemetschek Company, Hyderabad, India 
-  Jan 2019 - Jul 2022                                  	         
+* Web Developer at Spacewell, A Nemetschek Company
+    * Located in Hyderabad, India
+    * Jan 2019 - Jul 2022                                  	         
     * Responsible for developing new modules and interfaces for MCS WEB PORTAL, a product with modules such as Reservations, Work Orders, Helpdesk, etc.
     * Extended Reservations module to include workplaces, involving UI modifications, API enhancements, and procedure/function updates.
     * Contributed to the Document module, focusing on backend and database operations for managing folders and files.
