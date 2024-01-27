@@ -12,15 +12,20 @@ I am an accomplished professional with a strong foundation in Information Scienc
 
 Journey: 
 ======
-1. Started my bachelors in the year 2015 from Mahatma Gandhi Institute of Technology, Hyderabad, India.
-2. Got tangled in the world of big data, (Hadoop)
-3. Selected into the final round of Smart India Hackathon' 2k18
-4. Started working with IOT, Cloud and Data Analytics
-5. December 2018 - Implemented a mobile app and Arduino-based system to detect empty parking spots using UV sensors and Bluetooth!
-6. March 2019 - Developed a classification ML model predicting suitable crops based on user-input conditions.
-7. At the same time Started as an intern at Nemetschek India, then known as MCS Solutions (January 2019)Was offered full time in June 2k19 as a web developer
-9. Started my masters in August'2022
-10. Now working on various independent research projects, primarily in computer vision.
+* Started my bachelors in the year 2015 from Mahatma Gandhi Institute of Technology, Hyderabad, India.
+* Got tangled in the world of data
+* Selected into the final round of Smart India Hackathon' 2k18
+* Started working with IOT, Cloud and Data Analytics
+    * May 2018 - Investment Case study to identify optimal sectors, countries, and investment types.
+    * June 2018  - Uber case study Analyze revenue loss due to cancellations and non-availability using  Pandas, Matplotlib, Seaborn. Recommendations provided for improvement.
+    * July 2018 - o	Analyzed  the data to understand the driving factors (or driver variables) behind loan defaulters using python
+    * December 2018 - Implemented a mobile app and Arduino-based system to detect empty parking spots using UV sensors and Bluetooth!
+    * March 2019 - Developed a classification ML model predicting suitable crops based on user-input conditions.
+* Started as an intern at Nemetschek India, then known as MCS Solutions (January 2019)Was offered full time in June 2k19 as a web developer
+* Graduated in 2019 after completion of my Bachelors
+* Worked on various projects, bugs, developed new modules at Nemetschek India (then known as Spacewell)
+* Started my masters in August'2022
+* Now working on various independent research projects, primarily in computer vision.
 
 Personal Bio
 =======
