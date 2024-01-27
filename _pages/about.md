@@ -12,20 +12,19 @@ I am an accomplished professional with a strong foundation in Information Scienc
 
 Journey: 
 ======
-* Started my bachelors in the year 2015 from Mahatma Gandhi Institute of Technology, Hyderabad, India.
-* Got tangled in the world of data
-* Selected into the final round of Smart India Hackathon' 2k18
-* Started working with IOT, Cloud and Data Analytics
+* Commenced undergraduate studies at Mahatma Gandhi Institute of Technology, Hyderabad, India in 2015.
+* Immersed myself in the realm of data, leading to participation in the final round of Smart India Hackathon' 2k18.
+* Delved into the domains of IoT, Cloud, and Data Analytics, initiating a series of impactful projects:
     * May 2018 - Investment Case study to identify optimal sectors, countries, and investment types.
     * June 2018  - Uber case study Analyze revenue loss due to cancellations and non-availability using  Pandas, Matplotlib, Seaborn. Recommendations provided for improvement.
-    * July 2018 - o	Analyzed  the data to understand the driving factors (or driver variables) behind loan defaulters using python
-    * December 2018 - Implemented a mobile app and Arduino-based system to detect empty parking spots using UV sensors and Bluetooth!
+    * July 2018 - Analyzed  the data to understand the driving factors (or driver variables) behind loan defaulters using python
+    * December 2018 - Developed a mobile app and Arduino-based system to detect empty parking spots using UV sensors and Bluetooth!
     * March 2019 - Developed a classification ML model predicting suitable crops based on user-input conditions.
-* Started as an intern at Nemetschek India, then known as MCS Solutions (January 2019)Was offered full time in June 2k19 as a web developer
-* Graduated in 2019 after completion of my Bachelors
-* Worked on various projects, bugs, developed new modules at Nemetschek India (then known as Spacewell)
-* Started my masters in August'2022
-* Now working on various independent research projects, primarily in computer vision.
+* Transitioned from an intern to a full-time web developer at Nemetschek India (formerly Spacewell) in January 2019.
+* Successfully completed undergraduate studies in 2019.
+* Contributed significantly to diverse projects, bug fixes, and module development at Nemetschek India.
+* Initiated master's studies in August 2022.
+* Currently engaged in various independent research projects, with a primary focus on computer vision.
 
 Personal Bio
 =======
