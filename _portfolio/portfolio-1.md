@@ -1,4 +1,5 @@
 ---
 title: "Pitt Digital Scholarship"
 excerpt: "The Pitt Digital Scholarship Database will enable users to search for practitioners and advocates of digital scholarship (DS) at the University of Pittsburgh. To make changes to the database, users will be required to sign-up and login so that 1) only those with Pitt domain emails may create accounts and make changes to the database and 2) transactions can be logged and associated with the corresponding user. Users, depending on permission level, can search, view, add, modify, and delete records of people, groups (e.g., organization, school, department, lab), and funding opportunities that support DS. Keywords can be searched by name (people, groups, funding opportunity), methods (e.g., NLP, GIS, 3D scanning), tools (e.g., Python, ArcGIS, SketchUp), or resources (e.g., workstations, 3D printer). Results can be filtered by location (i.e., campus). Time permitting, the app might also provide visualizations (e.g., a network graph or radial chart of the relationships between people, groups, methods, and tools)."
+collection: portfolio
 ---
