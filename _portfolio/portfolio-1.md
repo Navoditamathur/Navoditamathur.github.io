@@ -1,6 +1,6 @@
 ---
 title: "Pitt Digital Scholarship"
-excerpt: "A web application to search for people, units, areas, methods, tools, and resources required for scholarships with special privileges given depending on the permission level, to add and delete the same.  My role was to query and construct the  graph database using Neo4j, API construction for CURD operations on the SQL database, and deployment of the website using"
+excerpt: "A web application to search for people, units, areas, methods, tools, and resources required for scholarships with special privileges given depending on the permission level, to add and delete the same.  My role was to query and construct the  graph database using Neo4j, API construction for CURD operations on the SQL database, and deployment of the website using Google Compute Engine"
 collection: portfolio
 ---
 Description:
