@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an independent researcher in the field of computer vision and machine learning. I am familiar and have worked with projects related to large language modeling, graph neural networks and multi-modal networks in academic settings. I have experience working with satellite imagery, remote sensing and change detection.
+I am an independent researcher specializing in computer vision and machine learning, with over 2 years of experience. My expertise spans computer vision, satellite imagery, and remote sensing. I have worked on projects involving large language models, graph neural networks, and multi-modal networks in academic settings.
 
-My reasech projects include Brain Tumor Image Segmentation which makes use of Swin transformers and attention for classification of brain tumors, road crack image segmentation where I use discrete wavelet transforms and self-attention mechanism for detection of road cracks.
+My notable research projects include:
 
-I am currently working on projects including Large Language Modes (LLM), Visual Question Answering (VQA) and Remote Sensing (RS) change detection
+* Brain Tumor Image Segmentation: Leveraging Swin transformers and attention mechanisms to classify brain tumors.
+* Road Crack Image Segmentation: Utilizing discrete wavelet transforms and self-attention mechanisms for detecting road cracks.
+
+Currently, I am focused on research in the areas of Large Language Models (LLMs), Visual Question Answering (VQA), Remote Sensing (RS) change detection, and spatiotemporal data analysis.
