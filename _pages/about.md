@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an independent researcher specializing in computer vision and machine learning, with over 2 years of experience. My expertise spans computer vision, satellite imagery, and remote sensing. I have worked on projects involving large language models, graph neural networks, and multi-modal networks in academic settings.
+I am an independent researcher specializing in computer vision and machine learning, with over 3 years of experience in software development. My expertise spans computer vision, satellite imagery, and remote sensing. I have worked on projects involving large language models, graph neural networks, and multi-modal networks in academic settings.
 
 My notable research projects include:
 
