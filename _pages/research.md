@@ -74,7 +74,7 @@ Future work may focus on expanding the analysis to include additional factors su
 
 ---
 
-# Project Report: Detection of Deforestation Due to Roads, Logging, Industrial Agriculture, and Slash & Burn in the Congo Basin Using Sentinel-2 Data
+# Detection of Deforestation Due to Roads, Logging, Industrial Agriculture, and Slash & Burn in the Congo Basin
 
 ## 1. Introduction
 
