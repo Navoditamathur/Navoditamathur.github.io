@@ -1,0 +1,26 @@
+---
+layout: archive
+permalink: /tags/
+title: "Posts/Portfolio with Tags"
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% include group-by-array collection=site.posts field="tags" %}
+{% include group-by-array collection=site.portfolio field="tags" %}
+
+<div id="posts-container">
+  {% for tag in group_names %}
+    {% assign posts = group_items[forloop.index0] %}
+    <div class="tag-group" data-tag="{{ tag | slugify }}">
+      <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+      {% for post in posts %}
+        <div class="post-item">
+          {% include archive-single.html %}
+        </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
+</div>
