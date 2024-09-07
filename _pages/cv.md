@@ -41,7 +41,7 @@ Work experience
     * Customized the product for global customers, enhancing front-end, back-end, and database to boost customer satisfaction.
 Technology  Stack – HTML, CSS, JavaScript, ExtJS (Extended JavaScript), PHP, SQL, Oracle, Procedures, Functions, Packages, SOAP, Unit Testing (PHPUnit)
 
-volunteer project experience (https://navoditamathur.github.io/research/)
+Research Experience ([Volunteer](https://navoditamathur.github.io/research/))
 ------
 * Advanced Predictive Analytics for River water Quality Analysis after Flood in Kenya
     * Jun 2024 - Present                              	         
