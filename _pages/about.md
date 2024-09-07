@@ -15,7 +15,13 @@ Email: navoditamathur1998@gmail.com<br/>
 
 About Me
 ------
-I am an AI Research Intern at Dugree with over 3 years of experience in software development. My expertise lies at the intersection of Computer Vision, Satellite Imagery, and Remote Sensing, where I have contributed to a range of cutting-edge projects. I am deeply passionate about leveraging technology to understand and protect biodiversity, and this drive fuels my research in areas like  Multi-Modal Machine Learning and Artificial Intelligence (AI).
+I am an AI Research Intern at Dugree with over three years of experience in software development. My expertise lies at the intersection of Computer Vision, Satellite Imagery, and Remote Sensing, where I’ve contributed to innovative solutions across cutting-edge projects. I am driven by a deep passion for utilizing technology to better understand and safeguard biodiversity, which fuels my current research focus in Multi-Modal Machine Learning and Artificial Intelligence (AI).
+
+In my recent work, I’ve explored the integration of Large Language Models (LLMs), Visual Question Answering (VQA), and Remote Sensing (RS) technologies for applications in comprehensive change detection and spatiotemporal data analysis. These technologies allow for the sophisticated interpretation of large-scale geospatial data and support the development of predictive models to track and forecast environmental changes.
+
+One of my primary motivations is biodiversity conservation, where I integrate camera traps, bioacoustics, and environmental DNA (eDNA) with spatiotemporal data to create an all-encompassing monitoring system. This interdisciplinary approach combines visual, auditory, and genetic data to monitor species and ecosystem health, paving the way for more accurate and holistic insights into the state of our planet’s biodiversity.
+
+My aim is to leverage these advanced technologies to monitor, predict, and protect ecosystems, contributing to global conservation efforts. By combining the latest in AI, machine learning, and data analysis, I aspire to create innovative tools that support biodiversity conservation and promote sustainable environmental practices.
 
 Key Research Projects
 ------
@@ -26,17 +32,7 @@ Developed an advanced classification model utilizing Swin transformers and atten
 - Road Crack Image Segmentation:
 Implemented a novel approach using discrete wavelet transforms and self-attention mechanisms to detect and segment road cracks with high precision.
 
-(details in portfolio)
-
-Current Research Focus:
------
-I am currently delving into the transformative potential of Large Language Models (LLMs), Visual Question Answering (VQA), and Remote Sensing (RS) technologies for comprehensive change detection and spatiotemporal data analysis.
-
-Remote Sensing, particularly through satellite imagery and raster data, forms the backbone of my work in monitoring land cover changes, deforestation, urban expansion, and other significant environmental shifts. The integration of LLMs and VQA with RS data represents a powerful synergy, enabling the interpretation of large-scale geospatial data with the sophistication of human-like understanding. This approach not only facilitates precise change detection but also supports the development of predictive models to forecast future environmental changes.
-
-Motivated by a deep commitment to biodiversity conservation, I am also passionate about integrating camera traps, bioacoustics, and environmental DNA (eDNA) with spatiotemporal data analysis.. This interdisciplinary approach is designed to create a holistic monitoring system that captures the complexities of biodiversity through various lenses—visual, auditory, and genetic. Camera traps provide invaluable visual records of wildlife activity, allowing for the identification and tracking of species across different regions and timeframes. Bioacoustics complements this by capturing the sounds of species, such as bird songs or amphibian calls, which are critical indicators of ecosystem health. eDNA offers a groundbreaking method to detect species presence through genetic traces left in the environment, providing a non-invasive way to monitor biodiversity in various habitats.
-
-My ultimate goal is to apply these advanced technologies to monitor and preserve ecosystems, contributing to a deeper understanding and protection of our planet's natural heritage. By leveraging the latest advancements in AI, machine learning, and data analysis, I aspire to develop innovative solutions that not only enhance our ability to monitor environmental changes but also inform conservation strategies that protect the rich biodiversity of our planet. Through this work, I hope to make a meaningful contribution to the global efforts to preserve ecosystems and ensure a sustainable future for all species.
+Further details in [portfolio](avoditamathur.github.io/portfolio/)
 
 Research Experience 
 ----
