@@ -32,7 +32,7 @@ Developed an advanced classification model utilizing Swin transformers and atten
 - Road Crack Image Segmentation:
 Implemented a novel approach using discrete wavelet transforms and self-attention mechanisms to detect and segment road cracks with high precision.
 
-Further details in [portfolio](avoditamathur.github.io/portfolio/)
+Further details in [portfolio](https://navoditamathur.github.io/portfolio/)
 
 Research Experience 
 ----
