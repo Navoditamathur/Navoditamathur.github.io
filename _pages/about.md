@@ -12,12 +12,11 @@ AI Research Intern, Machine learning Engineer<br/>
 Location: San Mateo, CA<br/>
 Contact: +1(412) 954-7877<br/>
 Email: navoditamathur1998@gmail.com<br/>
+Github: [Navoditamathur](https://github.com/Navoditamathur)
 
 About Me
 ------
 I am an AI Research Intern at Dugree with over three years of experience in software development. My expertise lies at the intersection of Computer Vision, Satellite Imagery, and Remote Sensing, where I’ve contributed to innovative solutions across cutting-edge projects. I am driven by a deep passion for utilizing technology to better understand and safeguard biodiversity, which fuels my current research focus in Multi-Modal Machine Learning and Artificial Intelligence (AI).
-
-In my recent work, I have innovatively integrated Large Language Models (LLMs), Visual Question Answering (VQA), and Remote Sensing (RS) technologies to enhance comprehensive change detection and spatiotemporal data analysis. By leveraging these advanced technologies, I enable more nuanced interpretation of large-scale geospatial data. This integration supports the creation of sophisticated predictive models that can track and forecast environmental changes with greater accuracy, ultimately providing actionable insights for environmental monitoring and decision-making.
 
 One of my primary motivations is biodiversity conservation, where I integrate camera traps, bioacoustics, and environmental DNA (eDNA) with spatiotemporal data to create an all-encompassing monitoring system. This interdisciplinary approach combines visual, auditory, and genetic data to monitor species and ecosystem health, paving the way for more accurate and holistic insights into the state of our planet’s biodiversity.
 
