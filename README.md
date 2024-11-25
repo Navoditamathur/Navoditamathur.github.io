@@ -13,8 +13,6 @@ Frameworks: TensorFlow, PyTorch, Scikit-learn, LangChain
 Technologies: Docker, Apache Hadoop, Tableau, Streamlit, Git, MLFlow
 
 ## Projects
-Biodiversity Monitoring using Computer Vision: Leveraged multimodal learning integrating camera traps and bioacoustics for species dataset generation. This ongoing research aims to develop ecological foundation models for remote sensing and biodiversity applications.
-
 iNaturalist Species Classification: Working on an LLM-powered species classification pipeline with a question-answer format in Streamlit to provide detailed information about identified species.
 
 Deforestation Detection in the Congo Basin: Developed an end-to-end pipeline using satellite imagery and geospatial analysis to map and track deforestation.
