@@ -19,7 +19,7 @@ I am an AI Research Intern at HeadOn with over a year of experience in ML and th
 
 I am deeply interested in the emerging field of imageomics, which applies computer vision to biological data to extract species-level insights from images. My focus is on integrating diverse modalities—such as language, images, DNA sequence/barcodes and spatiotemporal data to develop a monitoring framework.
 
-My aim is to leverage these advanced technologies to monitor, predict, and protect ecosystems, contributing to global conservation efforts. By combining the latest in AI, machine learning, and data analysis, I aspire to create innovative tools that support biodiversity conservation and promote sustainable environmental practices.
+My aim is to harness advanced AI technologies to study, predict, and protect ecosystems. By bridging AI and biology, I aspire to create innovative tools that support biodiversity research.
 
 Key Research Projects
 ------
