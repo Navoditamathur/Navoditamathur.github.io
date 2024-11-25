@@ -19,13 +19,13 @@ Education
 
 * Bachelor of Technology: Information Technology
     * Graduated in May 2019
-    * GPA- 3.2
+    * GPA- 68/100
     * Mahatma Gandhi Institute of Technology - Hyderabad, India
     * Relevant courses: Database Management Systems, Operating Systems, Data Structures, Data Warehousing and Data Mining, Cloud Computing, Mobile Application Development, Machine Learning, Information Security, Information Storage and Retrieval.
 
 Work experience
 ------
-* AI Research Intern at Dugree
+* AI Research Intern at HeadOn
     * Jun 2024 - Present                              	         
     * Conducting research on cutting-edge applications of Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), Knowledge graph and Multimodal Machine Learning.
 
@@ -43,8 +43,13 @@ Technology  Stack – HTML, CSS, JavaScript, ExtJS (Extended JavaScript), PHP, S
 
 Research Experience ([Volunteer](https://navoditamathur.github.io/research/))
 ------
+* Maize Yield Prediction:
+    * Sep 2024 - Oct 2024
+    * Employed machine learning to forecast maize yield based on climatic and agricultural variables such as temperature, rainfall, soil moisture, and historical crop yield data.
+    * Trained the model using ridge regression to handle non-linear relationships between environmental factors and crop yield, achieving 0.94 R2.
+
 * Advanced Predictive Analytics for River water Quality Analysis after Flood in Kenya
-    * Jun 2024 - Present                              	         
+    * Jun 2024 - Aug 2014                              	         
     * Developed a predictive model to estimate stream flow using CHIRPS satellite precipitation data and gauge measurements, improving flood forecasting accuracy
     * Identified at-risk basins by analyzing hydrological and environmental data, facilitating targeted intervention strategies.
       
@@ -56,7 +61,7 @@ Research Experience ([Volunteer](https://navoditamathur.github.io/research/))
 
 Skills
 ------
-* Languages - Python, R, SQL, C, Java, MATLAB
+* Languages - Python, R, SQL
 * Database - Oracle, MySQL, Neo4j
 * ML/DL - PyTorch, Tensorflow, Keras, scikit-learn, Caret, glmnet
 * Web Technologies - HTML, JavaScript, CSS, PHP, Django, Flask, SOAP, Rest API
