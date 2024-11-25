@@ -24,7 +24,7 @@ Flood Extent Mapping in Kenya: Applied remote sensing and geospatial libraries t
 Farming Recommendation System: Developed a machine learning model predicting optimal crop choices based on environmental inputs, with a web app for dealer registration and product management.
 
 ## What I Aim to Achieve:
-I am driven by the goal of advancing the field of Artificial Intelligence, particularly in the intersection of computer vision, ecology, and life sciences. My focus lies in developing novel algorithms and pushing the boundaries of existing techniques to address real-world challenges like biodiversity monitoring and climate change. In my PhD, I aim to explore the integration of remote sensing, multimodal learning, and bio-inspired algorithms to solve complex ecological problems.
+I am driven by the goal of advancing the field of Artificial Intelligence, particularly in the intersection of computer vision, ecology, and life sciences. My focus lies in developing novel algorithms and pushing the boundaries of existing techniques to address real-world challenges like biodiversity monitoring and climate change.
 
 I'm always open to exciting research collaborations and professional opportunities that allow me to contribute to innovative AI applications and make a tangible impact!
 
