@@ -15,11 +15,11 @@ Email: navoditamathur1998@gmail.com<br/>
 
 About Me
 ------
-I am an AI Research Intern at HeadOn with over a year of experience in ML and three years of experience in software development. My expertise lies at the intersection of Computer Vision, Satellite Imagery, and Remote Sensing, where I’ve contributed to innovative solutions across cutting-edge projects. I am driven by a deep passion for utilizing technology to better understand and safeguard biodiversity, which fuels my current research focus in Multi-Modal Machine Learning and Artificial Intelligence (AI).
-
-I am deeply interested in the emerging field of imageomics, which applies computer vision to biological data to extract species-level insights from images. My focus is on integrating diverse modalities—such as language, images, DNA sequence/barcodes and spatiotemporal data to develop a monitoring framework.
-
-My aim is to harness advanced AI technologies to study, predict, and protect ecosystems. By bridging AI and biology, I aspire to create innovative tools that support biodiversity research.
+I am an AI Researcher with over a year of experience in ML and three years of experience in software development. My expertise lies at the intersection of AI and life sciences (geospatial and biomedical), where I’ve contributed to innovative solutions across cutting-edge projects like:
+- Agentic AI for Disease Prediction – Integrating EHR, medical imaging, and knowledge graphs for better clinical decision-making.
+- Medical Image Analysis: Optimizing Swin-UNETR for 3D brain tumor segmentation.
+- Wildfire Risk Classification – Developing smoke detection models to assess fire-prone regions.
+- Environmental Monitoring: Leveraging Sentinel-2 satellite imagery for deforestation detection
 
 Key Research Projects
 ------
