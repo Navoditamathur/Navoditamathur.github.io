@@ -1,6 +1,6 @@
 ---
 title: "Crop Suitability Prediction"
-excerpt: "This project aimed to create an accessible solution that brings farming to the everyday person, leveraging machine learning for crop suitability prediction. The machine learning model predicts the most appropriate crop to grow based on factors such as region, temperature, rainfall, altitude, and irrigation status..<br/>[![Title](https://navoditamathur.github.io/files/cropsuitability.jpg)](https://navoditamathur.github.io/portfolio/portfolio-CropSuitabilityPrediction/)"
+excerpt: "This project aimed to create an accessible solution that brings farming to the everyday person, leveraging machine learning for crop suitability prediction. The machine learning model predicts the most appropriate crop to grow based on factors such as region, temperature, rainfall, altitude, and irrigation status..<br/>[![Title](https://navoditamathur.github.io/files/4..png)](https://navoditamathur.github.io/portfolio/portfolio-CropSuitabilityPrediction/)"
 collection: portfolio
 tags: 
   - Web Development
