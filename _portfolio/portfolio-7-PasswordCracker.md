@@ -1,6 +1,6 @@
 ---
 title: "Password Cracker"
-excerpt: "The project’s goal was to developed a website to crack and validate the password using MD5 of registered users and validate the password as strong, moderate, and weak. To do so a list of 2000 commonly used passwords was used and tested using permutations with 0-9 digits and special characters. To optimize, the password was restricted to use at most 2 numbers and 2 special characters. [![Password Cracker](https://navoditamathur.github.io/files/password-cracking.jpg)](https://navoditamathur.github.io/portfolio/portfolio-PasswordCracker)"
+excerpt: "The project’s goal was to developed a website to crack and validate the password using MD5 of registered users and validate the password as strong, moderate, and weak. To do so a list of 2000 commonly used passwords was used and tested using permutations with 0-9 digits and special characters. To optimize, the password was restricted to use at most 2 numbers and 2 special characters. [![Password Cracker](https://navoditamathur.github.io/files/2..png)](https://navoditamathur.github.io/portfolio/portfolio-PasswordCracker)"
 collection: portfolio
 tags: 
   - password cracking
