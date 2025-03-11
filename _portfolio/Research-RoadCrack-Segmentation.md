@@ -1,6 +1,6 @@
 ---
 title: "Crack (Road) Image Segmentation"
-excerpt: "The project is aimed to develop a unet-based model to detect road cracks. <br/> [![Title](https://navoditamathur.github.io/files/9..png)](https://navoditamathur.github.io/portfolio/Research-RoadCrack-Segmentation/)"
+excerpt: "Road crack detection is a critical task in infrastructure maintenance, ensuring road safety and timely repairs. Traditional deep learning models, such as ResNet, struggle with detecting fine-grained details due to pooling-induced information loss. This project introduces Wavelet U-Net (WUNet)—a novel model that replaces max-pooling with Discrete Wavelet Transform (DWT) and integrates a self-attention mechanism to capture both local and global contextual information. WUNet outperforms a ResNet baseline, achieving a 0.4 increase in F1-score, demonstrating superior crack segmentation capabilities in complex and noisy environments. <br/><br/><br/> [![Title](https://navoditamathur.github.io/files/9..png)](https://navoditamathur.github.io/portfolio/Research-RoadCrack-Segmentation/)"
 collection: portfolio
 tags: 
   - ComputerVision
