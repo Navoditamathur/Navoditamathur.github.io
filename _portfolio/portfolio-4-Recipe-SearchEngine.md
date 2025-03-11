@@ -1,6 +1,6 @@
 ---
 title: "Recipe Search Engine"
-excerpt: "Designed a Django-based search engine for recipes, utilizing NLTK for tokenization and stop word removal [![cover](https://navoditamathur.github.io/files/5..png)](https://navoditamathur.github.io/portfolio/portfolio-Recipe-SearchEngine)"
+excerpt: "This project develops an NLP-powered recipe search engine that efficiently retrieves recipes based on titles and ingredients. Using natural language processing (NLP) techniques, such as tokenization, normalization, and stop word removal (NLTK), the system processes over 2 million recipes from a Kaggle dataset. The search engine leverages indexing and ranking algorithms to enhance retrieval accuracy and relevance. Built with Django, the platform provides a seamless user experience for discovering new recipes. Read more.... <br/><br/><br/> [![cover](https://navoditamathur.github.io/files/5..png)](https://navoditamathur.github.io/portfolio/portfolio-Recipe-SearchEngine)"
 collection: portfolio
 tags: 
   - NLP
