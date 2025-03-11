@@ -1,6 +1,6 @@
 ---
 title: "Crack (Road) Image Segmentation"
-excerpt: "The project is aimed to develop a unet-based model to detect road cracks. <br/> [![Title](https://navoditamathur.github.io/files/roadcrack.jpg)](https://navoditamathur.github.io/portfolio/Research-RoadCrack-Segmentation/)"
+excerpt: "The project is aimed to develop a unet-based model to detect road cracks. <br/> [![Title](https://navoditamathur.github.io/files/9..png)](https://navoditamathur.github.io/portfolio/Research-RoadCrack-Segmentation/)"
 collection: portfolio
 tags: 
   - ComputerVision
