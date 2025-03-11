@@ -1,6 +1,6 @@
 ---
 title: "PPG Paint Colors: Final Project"
-excerpt: "This project focused on analyzing a dataset provided by PPG to identify key paint properties using R. <br/> ![Title](https://navoditamathur.github.io/files/R_title.png)"
+excerpt: "This project focused on analyzing a dataset provided by PPG to identify key paint properties using R. <br/> ![Title](https://navoditamathur.github.io/files/6..png)"
 tags: 
   - R
   - Machine Learning
