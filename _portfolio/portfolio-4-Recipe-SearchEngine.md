@@ -1,6 +1,6 @@
 ---
 title: "Recipe Search Engine"
-excerpt: "Designed a Django-based search engine for recipes, utilizing NLTK for tokenization and stop word removal [![cover](https://navoditamathur.github.io/files/recipesearch_cover.webp)](https://navoditamathur.github.io/portfolio/portfolio-Recipe-SearchEngine)"
+excerpt: "Designed a Django-based search engine for recipes, utilizing NLTK for tokenization and stop word removal [![cover](https://navoditamathur.github.io/files/5..png)](https://navoditamathur.github.io/portfolio/portfolio-Recipe-SearchEngine)"
 collection: portfolio
 tags: 
   - NLP
