@@ -1,6 +1,6 @@
 ---
 title: "Chatting with PDF"
-excerpt: "A project aimed at creating a LangChain application using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs) to answer questions based on PDF documents <br/> [![Title](https://navoditamathur.github.io/files/3..png)](https://navoditamathur.github.io/portfolio/portfolio-ChatWithPDF/) "
+excerpt: "This project leverages natural language processing (NLP) and Retrieval-Augmented Generation (RAG) to create an interactive PDF query system. Built using LangChain, it enables users to extract and retrieve key information from PDFs through conversational AI. The Streamlit-based interface allows seamless document interaction, while OpenAI API integration enhances response accuracy. PDF parsing is handled via PyMuPDF or pdfminer, ensuring robust text extraction. This tool is ideal for researchers, professionals, and students seeking quick, precise information retrieval from documents.  <br/> [![Title](https://navoditamathur.github.io/files/3..png)](https://navoditamathur.github.io/portfolio/portfolio-ChatWithPDF/) "
 collection: portfolio
 tags: 
   - RAG
