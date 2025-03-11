@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning-Based 3D Brain Tumor Segmentation: A Novel Approach for Accurate and Efficient Diagnosis"
-excerpt: "The project is aimed to enhance a model by incorporating attention mechanism to existing Swin-UNETR for brain tumor image segmentation.[![Brain Tumor](https://navoditamathur.github.io/files/braintumor_title.png)](https://navoditamathur.github.io/portfolio/Research-Tumor-Segmentation/)"
+excerpt: "The project is aimed to enhance a model by incorporating attention mechanism to existing Swin-UNETR for brain tumor image segmentation.[![Brain Tumor](https://navoditamathur.github.io/files/10..png)](https://navoditamathur.github.io/portfolio/Research-Tumor-Segmentation/)"
 collection: portfolio
 tags: 
   - ComputerVision
