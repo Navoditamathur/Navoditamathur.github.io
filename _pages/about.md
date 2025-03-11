@@ -17,10 +17,10 @@ About Me
 ------
 I am an AI researcher with expertise at the intersection of AI, life sciences, and geospatial analytics. With over a year of experience in machine learning and three years in software development, my work focuses on building AI-driven solutions for biomedical and environmental challenges. My key projects include:
 
-Agentic AI for Disease Prediction – Integrating EHR, medical imaging, and knowledge graphs to enhance clinical decision-making.
-Medical Image Analysis – Optimizing Swin-UNETR for 3D brain tumor segmentation.
-Wildfire Risk Classification – Developing smoke detection models for fire-prone region assessment.
-Environmental Monitoring – Leveraging Sentinel-2 satellite imagery to detect deforestation.
+Agentic AI for Disease Prediction – Integrating EHR, medical imaging, and knowledge graphs to enhance clinical decision-making.<br/>
+Medical Image Analysis – Optimizing Swin-UNETR for 3D brain tumor segmentation.<br/>
+Wildfire Risk Classification – Developing smoke detection models for fire-prone region assessment.<br/>
+Environmental Monitoring – Leveraging Sentinel-2 satellite imagery to detect deforestation.<br/>
 
 Key Research Projects
 ------
