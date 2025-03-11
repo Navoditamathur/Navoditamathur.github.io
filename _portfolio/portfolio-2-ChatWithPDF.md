@@ -1,6 +1,6 @@
 ---
 title: "Chatting with PDF"
-excerpt: "A project aimed at creating a LangChain application using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs) to answer questions based on PDF documents <br/> [![Title](https://navoditamathur.github.io/files/chatwithpdf_title.png)](https://navoditamathur.github.io/portfolio/portfolio-ChatWithPDF/) "
+excerpt: "A project aimed at creating a LangChain application using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs) to answer questions based on PDF documents <br/> [![Title](https://navoditamathur.github.io/files/3..png)](https://navoditamathur.github.io/portfolio/portfolio-ChatWithPDF/) "
 collection: portfolio
 tags: 
   - RAG
