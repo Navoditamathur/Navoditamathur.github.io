@@ -1,6 +1,6 @@
 ---
 title: "Optimal Path Routing using Reinforcement Learning"
-excerpt: "Developed an AI system utilizing OpenAI Gym to dynamically control the flow of network traffic, optimizing routing paths and enhancing network performance through reinforcement learning.  <br/> [![Title](https://navoditamathur.github.io/files/PathRouting.png)](https://navoditamathur.github.io/portfolio/portfolio-OptimalPathRouting/)"
+excerpt: "Developed an AI system utilizing OpenAI Gym to dynamically control the flow of network traffic, optimizing routing paths and enhancing network performance through reinforcement learning.  <br/> [![Title](https://navoditamathur.github.io/files/7..png)](https://navoditamathur.github.io/portfolio/portfolio-OptimalPathRouting/)"
 collection: portfolio
 tags: 
   - Reinforcement-Learning
