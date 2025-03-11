@@ -1,6 +1,6 @@
 ---
 title: "Pitt Digital Scholarship"
-excerpt: "A web application to search for people, units, areas, methods, tools, and resources required for scholarships with special privileges given depending on the permission level. My role was to query and construct the graph database using Neo4j, build APIs for CRUD operations on the SQL database, and deploy the website using Google Compute Engine. <br/> [![Title](https://navoditamathur.github.io/files/PittDSDb_title.png)](https://navoditamathur.github.io/portfolio/portfolio-PittDSDb/)"
+excerpt: "A web application to search for people, units, areas, methods, tools, and resources required for scholarships with special privileges given depending on the permission level. My role was to query and construct the graph database using Neo4j, build APIs for CRUD operations on the SQL database, and deploy the website using Google Compute Engine. <br/> [![Title](https://navoditamathur.github.io/files/3..png)](https://navoditamathur.github.io/portfolio/portfolio-PittDSDb/)"
 tags: 
   - Web Development
   - Database
