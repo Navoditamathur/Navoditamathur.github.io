@@ -1,7 +1,7 @@
 ---
 title: "App-based Empty Parking Spot Detection"
 excerpt: "The project was aimed to detect empty vehicle spots in parking by mobile based application with the help of sensors implemented using an Arduino board. Wrote the Arduino code to help detect cars using UV sensors and to change the color of LEDs.  The data was visualized on mobile app using Bluetooth.<br/>
-[![Parking Mini](https://navoditamathur.github.io/files/parkingsystem.png)](https://navoditamathur.github.io/portfolio/portfolio-ParkingSpotDetection/)"
+[![Parking Mini](https://navoditamathur.github.io/files/1..png)](https://navoditamathur.github.io/portfolio/portfolio-ParkingSpotDetection/)"
 collection: portfolio
 tags: 
   - IoT
