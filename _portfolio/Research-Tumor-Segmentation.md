@@ -83,8 +83,8 @@ For comparison, a standard U-Net model was used as the baseline. The U-Net model
 - Performance of Swin-UNETR:<br/>
 The proposed Swin-UNETR model outperformed the baseline U-Net across all evaluation metrics. The spatial attention mechanism and SE module significantly enhanced the model’s ability to capture long-range dependencies and refine feature maps, leading to more accurate segmentation of tumor boundaries and complex regions.
 
-Model|Dice Score
-U-Net	0.80
+Model|Dice Score|
+U-Net|0.80|
 Swin-UNETR|0.81
 
 The Dice score of 0.88 for Swin-UNETR represents a notable improvement over the U-Net ndicating the model's enhanced ability to detect tumor regions with greater precision.
@@ -96,7 +96,7 @@ Visual inspection of the segmentation results showed that Swin-UNETR was able to
 
 Conclusion:
 ------
-In this project, we proposed a novel Swin-UNETR based model for brain tumor segmentation, integrating a 3D Swin Transformer backbone with a spatial attention mechanism and squeeze-and-excitation (SE) modules. The model demonstrated significant improvements over the traditional U-Net architecture, achieving a Dice score of 0.88 on the BraTS dataset, outperforming the baseline by a wide margin.
+In this project, we proposed a novel Swin-UNETR based model for brain tumor segmentation, integrating a 3D Swin Transformer backbone with a spatial attention mechanism and squeeze-and-excitation (SE) modules. The model demonstrated significant improvements over the traditional U-Net architecture, achieving a Dice score of 0.88 on the BraTS dataset.
 
 The combination of long-range dependency capture through the Swin Transformer and the spatial attention mechanism proved effective for accurately segmenting complex tumor structures. Future work may focus on optimizing the architecture for other medical image segmentation tasks and further improving computational efficiency for real-time clinical applications.
 
