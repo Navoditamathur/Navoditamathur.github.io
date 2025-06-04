@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 AI Research Intern, Machine learning Engineer<br/>
-Location: San Mateo, CA<br/>
+Location: Ithaca, NY<br/>
 Contact: +1(412) 954-7877<br/>
 Email: navoditamathur1998@gmail.com<br/>
 
 About Me
 ------
-I am an AI researcher with expertise at the intersection of AI, life sciences, and geospatial analytics. With over a year of experience in machine learning and three years in software development, my work focuses on building AI-driven solutions for biomedical and environmental challenges. My key projects include:
+I am an AI researcher with expertise at the intersection of AI, life sciences, and geospatial analytics. With over a year of experience in machine learning and three years in software development, my work focuses on building AI-driven solutions for healthcare and environmental challenges. My key projects include:
 
 Agentic AI for Disease Prediction – Integrating EHR, medical imaging, and knowledge graphs to enhance clinical decision-making.<br/>
 Medical Image Analysis – Optimizing Swin-UNETR for 3D brain tumor segmentation.<br/>
