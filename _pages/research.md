@@ -13,14 +13,15 @@ redirect_from:
 ---
 
 # Marine Debris Detection
+Marine litter, especially floating plastics, poses significant threats to ecosystems and human activity. Remote sensing with Sentinel-2 imagery offers a scalable solution for detection, but building robust datasets and models remains a challenge.
 
-This document contains:
-- Description of the best performing model from the Omdena Project _Detecting Plastic Debris through Satellite Imagery in the Italian and Mediterranean Seas_.
-- A short summary of the evaluation methodologies used in papers [1], [2] which we might want to replicate if we decide to pursue publication.
-- A paragraph comparing our model with the Map-Mapper models
-- A going-forward paragraph, highlighting the possible next steps
-Aim of the document :
-- It should serve as both a recap and a starting point for the analysis to determine whether we want to pursue publication
+In this project, we curated a new dataset on Litter Windows using MAP-Mapper, inspired by MARIDA and MADOS, and trained modern semantic segmentation models (U-Net, ResUNet++, etc.) to detect floating debris at the pixel level.
+
+## Dataset
+Downloaded Sentinel-2 SAFE archives 
+Preprocessed with ACOLITE to obtain water-leaving reflectance.
+Applied s2cloudless for cloud/shadow masking.
+Generated tiles and annotation masks.
 
 ## Model Description
 - Our model is based on the **ResAttUNet** architecture. In the original paper the model is trained on MARIDA and solves a multi-class problem. The metrics are inferior to Map-Mapper. We improve over it, but we transform the task to a **binary** task.
