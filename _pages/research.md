@@ -10,6 +10,48 @@ redirect_from:
 {% include base_path %}
 
 
+---
+
+# Marine Debris Detection
+
+This document contains:
+- Description of the best performing model from the Omdena Project _Detecting Plastic Debris through Satellite Imagery in the Italian and Mediterranean Seas_.
+- A short summary of the evaluation methodologies used in papers [1], [2] which we might want to replicate if we decide to pursue publication.
+- A paragraph comparing our model with the Map-Mapper models
+- A going-forward paragraph, highlighting the possible next steps
+Aim of the document :
+- It should serve as both a recap and a starting point for the analysis to determine whether we want to pursue publication
+
+## Model Description
+- Our model is based on the **ResAttUNet** architecture. In the original paper the model is trained on MARIDA and solves a multi-class problem. The metrics are inferior to Map-Mapper. We improve over it, but we transform the task to a **binary** task.
+- Our Model is trained on a **combined dataset** composed of MARIDA and the imagery from the Litter Windrows Catalog that we collected and preprocessed ourselves.
+- **Our Model merges MARIDA classes 1, 2, 3, 4, 9 (1. Marine Debris, 2. Dense Sargassum, 3. Sparse Sargassum, 4. Natural Organic Material, 9. Foam) to a unique plastic debris proxy- class, following the paper [1]**.
+- A distinctive feature of the training pipeline is the random selection of non-debris pixels from an annular neighborhood surrounding the annotated debris pixels in the Litter Windrows Catalog Dataset. This strategy helps mitigate the inherent imbalance between debris and background pixels. Both the proportion of non-debris pixels sampled from the annular region and the radius of that region are treated as hyperparameters.
+- The metrics, following literature, are computed on the annotated pixels of the MARIDA test set (no random choice happens for the MARIDA dataset).
+- 
+## Model Performance
+#### Our Model : Binary Segmentation Task
+
+
+|                | Iou   | Prec. | F1    | Rec. |
+| -------------- | ----- | ----- | ----- | ---- |
+| Our best model | 0.817 | 0.889 | 0.899 | 0.90 |
+
+
+#### Map-Mapper Model (Multi-Class Segmentation)
+
+|                    | MD&SP IoU | MD&SP Prec. | F1       |
+| ------------------ | --------- | ----------- | -------- |
+| MAP-Mapper-Opt 0pt | **0.78**  | 0.87        | **0.88** |
+| MAP-Mapper-HP      | 0.60      | **0.95**    | 0.75     |
+
+
+#### References
+1. Large-scale detection of marine debris in coastal areas with Sentinel-2 , [https://doi.org/10.1016/j.isci.2023.108402](https://doi.org/10.1016/j.isci.2023.108402 "Persistent link using digital object identifier")
+2.  High-precision density mapping of marine debris and floating plastics via satellite imagery,  H.Booth, W. Ma, O. Karakus, [https://doi.org/10.1038/s41598-023-33612-2](https://doi.org/10.1038/s41598-023-33612-2)
+
+
+
 # Flood Risk Assessment Using CHIRPS and Landsat Data in Sub-Basins
 
 ## 1. Introduction
