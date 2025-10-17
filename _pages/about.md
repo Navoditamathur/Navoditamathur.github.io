@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-AI Research Intern, Machine learning Engineer<br/>
-Location: Ithaca, NY<br/>
+Data Scientist, Machine learning Engineer<br/>
+Location: New Jersey, NJ<br/>
 Contact: +1(412) 954-7877<br/>
 Email: navoditamathur1998@gmail.com<br/>
 
