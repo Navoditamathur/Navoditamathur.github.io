@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Data Scientist, Machine learning Engineer<br/>
-Location: New Jersey, NJ<br/>
+Location: Jersey City, NJ<br/>
 Contact: +1(412) 954-7877<br/>
 Email: navoditamathur1998@gmail.com<br/>
 
